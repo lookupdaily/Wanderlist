@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/Megscode/Wanderlist.svg?branch=master)](https://travis-ci.org/Megscode/Wanderlist)
-[![Maintainability](https://api.codeclimate.com/v1/badges/2f223967c461f1aa01d9/maintainability)](https://codeclimate.com/github/Megscode/Wanderlist/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/2f223967c461f1aa01d9/test_coverage)](https://codeclimate.com/github/Megscode/Wanderlist/test_coverage)
-
 ### [Makers Academy](http://www.makersacademy.com) - Final Engineering Project
 
 # Wanderlist 🥾
@@ -49,11 +45,11 @@ To run tests:
 ## <a name="Headline_Specifications">Headline Specifications</a>
 
 A user can:
-* Sign up and login to the app;
-* Make a new route by searching for places and adding them; 
-* Search for existing routes near them;
-* Vote on other users' routes;
-* View routes ranked on popularity.
+* Sign up and login to the app
+* Make a new route to share with friends, by searching for places and adding them
+* Search for existing routes near them
+* Vote on other users' routes
+* View routes ranked on popularity
 
 ## <a name="User_Stories">User Stories</a>
 
@@ -127,9 +123,9 @@ I would like to be able to add categories to my route
 
 ## <a name="Further_Improvements">Further_Improvements</a>
 
+* Refactor JS to improve maintainability
 * Add upload image to routes feature
 * Add mobile functionality
-* Refactor JS
 * Continue styling
 
 

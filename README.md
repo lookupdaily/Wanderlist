@@ -2,8 +2,9 @@
 
 # Wanderlist 🥾
 
+An app for finding and sharing urban walks—using Google's Maps, Places and Directions APIs
 
-Link to App - https://wanderlist-makers.herokuapp.com/
+Check it out! https://wanderlist-makers.herokuapp.com/
 
 #### Technologies: Ruby, Rspec, Capybara, Rails, HTML, CSS, TravisCI, CodeClimate
 
